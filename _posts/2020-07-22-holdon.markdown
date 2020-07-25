@@ -3,7 +3,7 @@ layout: post
 title: "Hold on"
 date: 2020-07-22 20:45:34 +0100
 categories: design
-image: /assets/images/tshirt_design_train_pole.png
+image: /assets/images/tshirt_model_train_pole.jpg
 ---
 We can't assume that people around us want to tube-surf, so let's not lean against the poles... unless you're a cat. 
 
@@ -11,6 +11,19 @@ Now that Camilla is working from home, she is weirdly missing her commute. There
 
 Inspired by the London tubetiqutte observed by Camilla, our brand is launching with [this design](https://tubetiquette.teemill.com/product/hold-on/) - the poles are made for holding. 
 
-![Hold on](/assets/images/tshirt_design_train_pole.png)
+<div class="box alt"><div class="row 50% uniform">
+    <div class="4u">  
+    <span class="image fit grid">
+        <img src="/assets/images/tshirt_design_train_pole.png"/></span>
+    </div>   
+    <div class="4u">  
+    <span class="image fit grid">
+        <img src="/assets/images/tshirt_model_train_pole.jpg"/></span>
+    </div>
+    <div class="4u$">  
+    <span class="image fit grid">
+        <img src="/assets/images/tshirt_product_train_pole.png"/></span>
+    </div>
+</div></div>
 
-Do check out our [other design](https://tubetiquette.teemill.com/product/scooooop-/) for the launch, and if the scenes depicted resonate with you, get in touch with your own stories! 
+Do check out our [other design]({% post_url 2020-07-22-scoop %}) for the launch, and if the scenes depicted resonate with you, get in touch with your own stories! 

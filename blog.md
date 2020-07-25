@@ -34,8 +34,8 @@ nav-menu: true
     <div class="4u">  
   {% endif %}
     <a href="{{ post.url }}">
-    <span class="image fit">
-        <img src="{{ post.image }}" style='object-fit: contain'/></span>
+    <span class="image fit grid">
+        <img src="{{ post.image }}"/></span>
                     <b>{{ post.title }}</b> ({{ post.date  | date: "%-d %B %Y" }})
                     {{ post.excerpt }}</a>
     </div>

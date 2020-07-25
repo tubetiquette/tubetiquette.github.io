@@ -3,7 +3,7 @@ layout: post
 title: "Scoop!"
 date: 2020-07-22 20:45:34 +0100
 categories: design
-image: /assets/images/tshirt_design_ice_cream_scoop.png
+image: /assets/images/tshirt_model_ice_cream_scoop.jpg
 ---
 Treat yourself to an ice cream when you deserve it, but try to resist eating out of the tub... even if you're a cat. 
 
@@ -11,6 +11,19 @@ The weather is luring Jake and Pam to get out of the house when they aren't supp
 
 We think Pam and Jake's epiphany during the lockdown is worth celebrating, and our brand has included it as one of our two designs for the launch. [Scoop](https://tubetiquette.teemill.com/product/scooooop-/) it out - it's ice cream tubetiquette! 
 
-![Scoop](/assets/images/tshirt_design_ice_cream_scoop.png)
+<div class="box alt"><div class="row 50% uniform">
+    <div class="4u">  
+    <span class="image fit grid">
+        <img src="/assets/images/tshirt_design_ice_cream_scoop.png"/></span>
+    </div>   
+    <div class="4u">  
+    <span class="image fit grid">
+        <img src="/assets/images/tshirt_model_ice_cream_scoop.jpg"/></span>
+    </div>
+    <div class="4u$">  
+    <span class="image fit grid">
+        <img src="/assets/images/tshirt_product_ice_cream_scoop.png"/></span>
+    </div>
+</div></div>
 
-Do check out our [other design](https://tubetiquette.teemill.com/product/hold-on/), and let us know if you can work out the theme that runs through both. 
+Do check out our [other design]({% post_url 2020-07-22-holdon %}), and let us know if you can work out the theme that runs through both. 

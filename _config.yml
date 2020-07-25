@@ -24,13 +24,17 @@ twitter_username: tubetiquette
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
+remote-theme: benbalter/retlab #andrewbanchich/forty-jekyll-theme
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # bundle exec jekyll serve
 # [jekyllrb.com](https://jekyllrb.com/)
 # https://jekyllrb.com/docs/themes/#overriding-theme-default
+# https://jekyllrb.com/docs/step-by-step/08-blogging/
+# https://github.com/mmistakes/minimal-mistakes/blob/master/docs/_config.yml
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

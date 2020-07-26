@@ -37,6 +37,11 @@ plugins:
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
+## https://jekyllrb.com/docs/collections/
+collections: 
+    posts_parallel: 
+        output: true
+
 # bundle exec jekyll serve
 # [jekyllrb.com](https://jekyllrb.com/)
 # https://jekyllrb.com/docs/themes/#overriding-theme-default

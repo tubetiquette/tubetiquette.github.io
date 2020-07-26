@@ -27,11 +27,17 @@
 
 <ul class="actions">
     <li><a onclick="window.history.back()" class="button fa fa-arrow-left"> Head back</a></li>
-    <li><a href="{% link blog.md %}" class="button special fa fa-book"> 
-    {% if page.description == 404 %}
-        Hear our stories
+    <li>
+    {% if page.parallel %}
+        <a href="{% link blog_parallel.md %}" class="button special fa fa-book">
+        Pick another entry
     {% else %}
-        Pick another stories
+        <a href="{% link blog.md %}" class="button special fa fa-book">  
+        {% if page.description == 404 %}
+            Hear some of our stories
+        {% else %}
+            Pick another story
+        {% endif %}
     {% endif %}
     </a></li>
                     

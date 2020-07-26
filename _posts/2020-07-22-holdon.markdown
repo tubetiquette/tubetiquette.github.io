@@ -3,7 +3,7 @@ layout: post
 title: "Hold on"
 date: 2020-07-22 20:45:34 +0100
 categories: design
-image: /assets/images/tshirt_model_train_pole.jpg
+image: /assets/images/tshirt_model_train_pole.png
 ---
 We can't assume that people around us want to tube-surf, so let's not lean against the poles... unless you're a cat. 
 
@@ -18,7 +18,7 @@ Inspired by the London tubetiqutte observed by Camilla, our brand is launching w
     </div>   
     <div class="4u">  
     <span class="image fit grid">
-        <img src="/assets/images/tshirt_model_train_pole.jpg"/></span>
+        <img src="{{ page.image }}"/></span>
     </div>
     <div class="4u$">  
     <span class="image fit grid">

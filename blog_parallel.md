@@ -4,7 +4,7 @@
 
 layout: page
 title: How did you stumble upon this? 
-description: parallel blog
+description: A parallel blog on the brand's site because we shouldn't be talking behind anybody's back! Here, we log our business journey from the very start - expect some ups and downs. 
 permalink: /blog_parallel/
 image: /assets/images/tubetiquette_logo_blog.png
 nav-menu: false

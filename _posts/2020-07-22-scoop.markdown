@@ -4,6 +4,7 @@ title: "Scoop!"
 date: 2020-07-22 20:45:34 +0100
 categories: design
 image: /assets/images/tshirt_model_ice_cream_scoop.jpg
+description: A story about the ice cream tub etiquette that has inspired our T-shirt design. Tried but didn't manage to work in any cats. 
 ---
 Treat yourself to an ice cream when you deserve it, but try to resist eating out of the tub... even if you're a cat. 
 

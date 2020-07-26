@@ -5,7 +5,7 @@
 layout: home
 title: Home
 landing-title: It's only Tubetiquette
-description: 
+description: Sustainable clothing brand with t-shirt designs illustrating the etiquette around tubs and tubes, featuring cats.
 image: 
 author: 
 permalink: 

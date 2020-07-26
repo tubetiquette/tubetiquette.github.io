@@ -1,6 +1,7 @@
 _site/*
 Gemfile.lock
 .bundle/*
+analytics.html
 
 ## Purging from history
 ## pip install didn't seem to work

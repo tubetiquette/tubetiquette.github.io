@@ -4,7 +4,7 @@
 
 layout: page
 title: Let's catch up!
-description: blog
+description: Blog
 permalink: /blog/
 image: /assets/images/tubetiquette_logo_blog.png
 nav-menu: true

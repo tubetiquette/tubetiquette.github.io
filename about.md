@@ -3,7 +3,7 @@ layout: page
 title: Hello, have we met?
 permalink: /about/
 image: /assets/images/tubetiquette_logo_cat.png
-description: about
+description: About
 nav-menu: true
 ---
 <!-- Main -->

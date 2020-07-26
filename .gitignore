@@ -1,2 +1,12 @@
 _site/*
 Gemfile.lock
+.bundle/*
+## pip install didn't seem to work
+# git clone https://github.com/newren/git-filter-repo.git
+# sudo cp -a git-filter-repo/git-filter-repo $(git --exec-path)
+## https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html#EXAMPLES
+## --force if not a freshly cloned repo and it'll revert the changes even if the paths are not specified in your command
+# git remote add origin https ##reinstate references to the remote branch
+# git push --set-upstream origin master --force ## replaces whatever on Github
+## other local copies: git fetch --all; git reset --hard origin/master; git pull
+## to check: git log | grep <>

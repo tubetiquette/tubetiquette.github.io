@@ -1,6 +1,8 @@
 _site/*
 Gemfile.lock
 .bundle/*
+
+## Purging from history
 ## pip install didn't seem to work
 # git clone https://github.com/newren/git-filter-repo.git
 # sudo cp -a git-filter-repo/git-filter-repo $(git --exec-path)
@@ -10,3 +12,12 @@ Gemfile.lock
 # git push --set-upstream origin master --force ## replaces whatever on Github
 ## other local copies: git fetch --all; git reset --hard origin/master; git pull
 ## to check: git log | grep <>
+
+## get the bundle set up again after recloning
+# bundle update
+# bundle install
+# sudo apt-get update
+# sudo apt-get install ruby-full
+# sudo gem install jekyll
+# bundle exec jekyll -v
+# bundle exec jekyll serve

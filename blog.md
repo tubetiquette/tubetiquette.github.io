@@ -6,11 +6,20 @@ layout: page
 title: Let's catch up!
 description: blog
 permalink: /blog/
-image: /assets/images/tubetiquette_logo.png
+image: /assets/images/tubetiquette_logo_blog.png
 nav-menu: true
 ---
+<!-- Main -->
+<div id="main" class="alt">
 
-![Tubetiquette](/assets/images/tubetiquette_logo.png)
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Let me tell you about...</h1>
+		</header>
+
+<p>Our blog! Because T-shirts are a form of expression, we want to offer some narrative around our designs. Everyone likes a story or two, and hopefully you'll find something that resonates with you or, at the very least, amuses you. We write about the inspirations, the production, and anything that is loosely related to the brand. It's not going to be just cat videos. Promise. 
+</p>
 
 <!--<ul class="alt">-->
 <!--  {% for post in site.posts %}
@@ -39,5 +48,9 @@ nav-menu: true
                     <b>{{ post.title }}</b> ({{ post.date  | date: "%-d %B %Y" }})
                     {{ post.excerpt }}</a>
     </div>
+  {% if forloop.last and thecycle != "three" %}
+  <div class="4u"> <span class="image fit grid"><img src="{{page.image}}" alt="Tubetiquette blog"></span></div>
+  {% endif %}
   {% endfor %}
 </div></div>
+</div></section></div>

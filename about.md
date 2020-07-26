@@ -17,12 +17,9 @@ nav-menu: true
 		</header>
 <!-- Content -->
 
-We're Tubetiquette, and we're here to promote what we call respecful living through absurd, and sometimes humourous, t-shirt designs. It's very nice of you to drop by. 
+<p>We're Tubetiquette, and we're here to promote what we call respecful living through absurd, and sometimes humourous, t-shirt designs. It's very nice of you to drop by.</p>
 
-<hr class="major" />			
-	<!-- Break -->
-
-<img src="{% link assets/images/tubetiquette_logo_cat.png %}" alt="Tubeti-cat">
+<img src="{{page.image}}" alt="Tubeti-cat">
 
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -64,7 +61,9 @@ Yes, let's start with that...
 				{% endif %}
 
 </p></div>
-
+</div> <!--row-->
+<hr class="major" />			
+	<!-- Break -->
 <dl>
 			<dt>Tubetiquette is respectful living</dt>
 			<dd><p>That's the latter part of the word, leaving the other part up for interpretation, and sometimes down to imagination when we stretch it a bit too far... </p></dd>
@@ -73,4 +72,5 @@ Yes, let's start with that...
 			<dt>Tubetiquette is a joke</dt>
 			<dd><p>Like a lot of businesses, ours started off as a pipedream (get it?). We kept joking about it till it wasn't funny anymore, so we had to do something about it, aaand it's becoming funny again. </p></dd>
 		</dl>
-</div>
+</div><!--inner-->
+</section></div> <!--main-->

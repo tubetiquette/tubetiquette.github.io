@@ -3,8 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Let's catch up!
-description: Blog
+landing-title: Let's catch up!
+description-short: Blog
+title: Blog
+description: Let's catch up! Because T-shirts are a form of expression, we want to offer some narrative around our designs on our blog.
 permalink: /blog/
 image: /assets/images/tubetiquette_logo_blog.png
 nav-menu: true

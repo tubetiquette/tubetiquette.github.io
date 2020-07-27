@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: How did you stumble upon this? 
-description: A parallel blog on the brand's site because we shouldn't be talking behind anybody's back! Here, we log our business journey from the very start - expect some ups and downs. 
+landing-title: How did you stumble upon this? 
+title: Parallel blog
+description: Here, we log our business journey on a parallel blog on our t-shirt brand's site... because we shouldn't be talking behind anybody's back!
 permalink: /blog_parallel/
 image: /assets/images/tubetiquette_logo_blog.png
 nav-menu: false
@@ -16,7 +17,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>{{ page.title }}</h1>
+			<h1>{{ page.landing-title }}</h1>
 		</header>
 
 <p>Well, welcome! We're surprised to find you here on our parallel blog because it isn't attached to the rest of our site. This is the space where we document our journey building Tubetiquette. It is semi-secret because the material here is very much a mind dump, but since you've found your way here, it might be of some interest to you which is pretty exciting! Please leave us a "you've been here" message as well as your comments {% include contacts.md %}</p>

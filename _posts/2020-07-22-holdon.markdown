@@ -4,7 +4,7 @@ title: "Hold on"
 date: 2020-07-22 20:45:34 +0100
 categories: design
 image: /assets/images/tshirt_model_train_pole.png
-description: A tongue-in-cheek story about not leaning on the poles in the Underground train, a London tube etiquette that inspired our T-shirt design before the lockdown. 
+description: A story about not leaning on the poles in the Underground train, a London tube etiquette that inspired our T-shirt design before the lockdown. 
 ---
 We can't assume that people around us want to tube-surf, so let's not lean against the poles... unless you're a cat. 
 

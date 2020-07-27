@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Hello, have we met?
+landing-title: Hello, have we met?
 permalink: /about/
 image: /assets/images/tubetiquette_logo_cat.png
-description: About
+description-short: About
+title: About
+description: Have we met? We're Tubetiquette, and we're here to promote what we call respecful living through absurd, and sometimes humourous, t-shirt designs.
 nav-menu: true
 ---
 <!-- Main -->

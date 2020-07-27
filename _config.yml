@@ -32,6 +32,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 ## homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

@@ -33,7 +33,7 @@ nav-menu: true
   {% endif %}
     <a href="{{ post.url }}">
     <span class="image fit grid">
-        <img src="{{ post.image }}"/></span>
+        <img src="{{ post.image }}" alt="{{ post.image-alt }}"/></span>
                     <b>{{ post.title }}</b> ({{ post.date  | date: "%-d %B %Y" }})
                     {{ post.excerpt }}</a>
     </div>

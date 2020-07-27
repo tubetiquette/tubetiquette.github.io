@@ -21,7 +21,7 @@ nav-menu: true
 
 <p>We're Tubetiquette, and we're here to promote what we call respecful living through absurd, and sometimes humourous, t-shirt designs. It's very nice of you to drop by.</p>
 
-<img src="{{page.image}}" alt="Tubeti-cat">
+<img src="{{page.image}}" alt="One of our Tubeti-cats">
 
 <div class="row">
 	<div class="6u 12u$(small)">

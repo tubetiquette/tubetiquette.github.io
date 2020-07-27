@@ -5,6 +5,7 @@ date: 2020-07-22 20:45:34 +0100
 categories: design
 image: /assets/images/tshirt_model_train_pole.png
 description: A story about not leaning on the poles in the Underground train, a London tube etiquette that inspired our T-shirt design before the lockdown. 
+image-alt: A tailored T-shirt dress in mustard yellow with our 'Hold On' design
 ---
 We can't assume that people around us want to tube-surf, so let's not lean against the poles... unless you're a cat. 
 
@@ -15,15 +16,15 @@ Inspired by the London tubetiquette observed by Camilla, our brand is launching 
 <div class="box alt"><div class="row 50% uniform">
     <div class="4u">  
     <span class="image fit grid">
-        <img src="/assets/images/tshirt_design_train_pole.png"/></span>
+        <img src="/assets/images/tshirt_design_train_pole.png" alt="The 'Hold On' T-shirt design showing a lady holding onto the pole on a tube train and a cat wrapping himself around it"/></span>
     </div>   
     <div class="4u">  
     <span class="image fit grid">
-        <img src="{{ page.image }}"/></span>
+        <img src="{{ page.image }}" alt="{{ page.image-alt }}"/></span>
     </div>
     <div class="4u$">  
     <span class="image fit grid">
-        <img src="/assets/images/tshirt_product_train_pole.png"/></span>
+        <img src="/assets/images/tshirt_product_train_pole.png" alt="A red T-shirt made of organic cotton, with the 'Hold On' design"/></span>
     </div>
 </div></div>
 

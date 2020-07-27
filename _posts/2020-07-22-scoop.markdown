@@ -5,6 +5,7 @@ date: 2020-07-22 20:45:34 +0100
 categories: design
 image: /assets/images/tshirt_model_ice_cream_scoop.jpg
 description: A story about the ice cream tub etiquette that has inspired our T-shirt design. Tried but didn't manage to work in any cats. 
+image-alt: A T-shirt in denim blue with our 'Scoop' design
 ---
 Treat yourself to an ice cream when you deserve it, but try to resist eating out of the tub... even if you're a cat. 
 
@@ -15,15 +16,15 @@ We think Pam and Jake's epiphany during the lockdown is worth celebrating, and o
 <div class="box alt"><div class="row 50% uniform">
     <div class="4u">  
     <span class="image fit grid">
-        <img src="/assets/images/tshirt_design_ice_cream_scoop.png"/></span>
+        <img src="/assets/images/tshirt_design_ice_cream_scoop.png" alt="The 'Scoop' T-shirt design showing a couple enjoying a bowl of ice cream and a kitten licking the tub"/></span>
     </div>   
     <div class="4u">  
     <span class="image fit grid">
-        <img src="/assets/images/tshirt_model_ice_cream_scoop.jpg"/></span>
+        <img src="{{ page.image }}" alt="{{ page.image-alt }}"/></span>
     </div>
     <div class="4u$">  
     <span class="image fit grid">
-        <img src="/assets/images/tshirt_product_ice_cream_scoop.png"/></span>
+        <img src="/assets/images/tshirt_product_ice_cream_scoop.png" alt="A bright blue T-shirt made of organic cotton, with the 'Scoop' design"/></span>
     </div>
 </div></div>
 

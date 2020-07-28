@@ -18,7 +18,7 @@ title: Tubetiquette
 description: >- # this means to ignore newlines until "baseurl:"
   Sustainable clothing brand with t-shirt designs illustrating the etiquette around tubs and tubes, featuring cats.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tubetiquette.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tubetiquette
 twitter_url: https://twitter.com/tubetiquette
 instagram_url: https://instagram.com/tubetiquette

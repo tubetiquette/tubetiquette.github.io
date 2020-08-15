@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-landing-title: Let's catch up!
-description-short: Blog
+landing-title: Story time!
+description-short: Inspired Designs
 title: Blog
 description: Let's catch up! Because T-shirts are a form of expression, we want to offer some narrative around our designs on our blog.
 permalink: /blog/
@@ -20,7 +20,7 @@ nav-menu: true
 			<h1>Let me tell you about...</h1>
 		</header>
 
-<p>Our blog! Because T-shirts are a form of expression, we want to offer some narrative around our designs. Everyone likes a story or two, and hopefully you'll find something that resonates with you or, at the very least, amuses you. We write about the inspirations, the production, and anything that is loosely related to the brand. It's not going to be just cat videos. Promise. 
+<p><!--Our blog! Because T-shirts are a form of expression, we want to offer some narrative around our designs. Everyone likes a story or two, and hopefully you'll find something that resonates with you or, at the very least, amuses you. We write about the inspirations, the production, and anything that is loosely related to social niceties. It's not going to be just <a href="https://www.youtube.com/watch?v=A1FTqn0e_fc">cat videos</a>. Promise. -->
 </p>
 
 <div class="box alt">	<div class="row 50% uniform">
@@ -35,7 +35,7 @@ nav-menu: true
     <span class="image fit grid">
         <img src="{{ post.image }}" alt="{{ post.image-alt }}"/></span>
                     <b>{{ post.title }}</b> ({{ post.date  | date: "%-d %B %Y" }})
-                    {{ post.excerpt }}</a>
+                    <br>{{ post.excerpt-blog }}</a>
     </div>
   {% if forloop.last and thecycle != "three" %}
   <div class="4u"> <span class="image fit grid"><img src="{{page.image}}" alt="Tubetiquette blog"></span></div>

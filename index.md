@@ -4,8 +4,8 @@
 
 layout: home
 title: Home
-landing-title: It's only Tubetiquette
-description: Sustainable clothing brand with t-shirt designs illustrating the etiquette around tubs and tubes, featuring cats.
+landing-title: Mind your Tubetiquette
+description: T-shirt designs illustrating the informal rules of tub(e) etiquette, featuring cats riding the London Underground and enjoying an afternoon tea.
 image: 
 author: 
 permalink: 

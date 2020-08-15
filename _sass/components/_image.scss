@@ -61,6 +61,17 @@ img {
 			}
 		}
 
+		&.grid2 {
+			img { height:440px; 
+			    width:auto; 
+			    object-fit: cover; 
+			    display: block; 
+			    margin-left: auto; 
+			    margin-right: auto; 
+			    z-index: 1;
+			}
+		}
+
 		&.main {
 			display: block;
 			margin: (_size(element-margin) * 1.25) 0;
@@ -75,3 +86,12 @@ img {
 			}
 		}
 	}
+figure { 
+    text-align:center;
+    padding: 5px;
+}
+figcaption {
+    margin: 10px 0 0 0;
+    font-variant: small-caps;
+}
+

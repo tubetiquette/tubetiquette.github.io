@@ -8,40 +8,28 @@ title: About
 description: Have we met? We're Tubetiquette, and we're here to promote what we call respecful living through absurd, and sometimes humourous, t-shirt designs.
 nav-menu: true
 ---
-<!-- Main -->
 <div id="main" class="alt">
 
-<!-- One -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h1>Hi there</h1>
 		</header>
-<!-- Content -->
 
-<p>We're Tubetiquette, and we're here to promote what we call respecful living through absurd, and sometimes humourous, t-shirt designs. It's very nice of you to drop by.</p>
+<span class="image left fit grid"><figure><img src="{{page.image}}" alt="One of Tubetiquette's tubeti-cats"><figcaption>One of Tubetiquette's tubeti-cats</figcaption></figure></span><p>We're Tubetiquette, and we're here to promote what we call respecful living through absurd, and sometimes humourous, t-shirt designs.</p>
 
-<img src="{{page.image}}" alt="One of our Tubeti-cats">
+<p>Our clothing brand was born in the strange times of self-isolation and mass demonstrations. Having reflected on what makes us human and how we can function better as a society, we wish to make a point that each person carries a huge amount of value and should be treated as such. That's everyone including you and me, our loved ones with whom we share the ice cream, and indeed, the strangers on the Underground! </p>
 
-<div class="row">
-	<div class="6u 12u$(small)">
-<p>Our brand was born in a strange time, during which we pondered over what made us human and what it meant to live in a society. The conclusion is that each person carries a huge amount of value and should be treated as such. 
-That's everyone, including you and me, the stranger on the tube and our loved ones we share that tub of ice cream with. </p>
-	</div>
-	<div class="6u$ 12u$(small)">
-<p>Ultimately, we hope to build a community that will help spread this philosophy, not by what they wear (though it'll help massively) but by how they go about their day-to-day lives. Realistically though, we'll be happy if we can just start a conversation about the situations depicted in our designs.
-Yes, let's start with that... {% include contacts.md %}
-</p></div>
-</div> <!--row-->
-<hr class="major" />			
-	<!-- Break -->
-<dl>
-			<dt>Tubetiquette is respectful living</dt>
-			<dd><p>That's the latter part of the word, leaving the other part up for interpretation, and sometimes down to imagination when we stretch it a bit too far... </p></dd>
-			<dt>Tubetiquette is therapy</dt>
-			<dd><p>There's something about making light of a situation and laugh about it. Whatever you find frustrating, just replace it with a mischievous cat, the tubeti-cat!</p></dd>
-			<dt>Tubetiquette is a joke</dt>
-			<dd><p>Like a lot of businesses, ours started off as a pipedream (get it?). We kept joking about it till it wasn't funny anymore, so we had to do something about it, aaand it's becoming funny again. </p></dd>
-		</dl>
+<p>Ultimately, we hope to build a community that will help spread this philosophy, not by what they wear (though it'll help massively) but by how they go about their day-to-day lives. Realistically though, we'll be happy if we can just get a conversation started about the situations depicted in the designs.</p>
+
+<span class="image right fit grid"><figure><img src="/assets/images/designer.jpg" alt="Tubetiquette's resident designer at one of the National Portrait Gallery's Friday drop-in drawing sessions" class="right"><figcaption>Our resident designer at the National Portrait Gallery's drop-in drawing session</figcaption></figure></span>
+<p>The inspirations for our designs are drawn from what we see and experience. Since we're based in London, there may be an obsessive amount of references to the weather and the Tube, for which we can only apologise. Every month, our designer in residence picks a scenario and presents the breach of social courtesy in the form of a mischievous cat. Whether deliberate or accidental, we would simply like to remind all tubeti-cats to try to be more considerate to all those around them. <!--, and remind ourselves to give them the benefit of the doubt. After all, they are only cats.--> 
+<!--Society has worked out a way to organise itself, and people are frustrated when this code of conduct is broken, especially in crowded cities like here in London. We have all been there - feeling annoyed ourselves but also getting on someone else's nerve. Instead of getting upset, Tubetiquette is offering a more zen way of dealing with such circumstances. For every conflict we feature, our resident designer simply replaces the offender with a mischievous cat, and maybe we can then become more tolerant and give the tubeti-cat the benefit of the doubt.--> 
+</p>
+
+<p>The respect that we hold for each other extends also to the environment. All our products are made from organic cotton in renewable energy powered factories, and are shipped in plastic-free packaging. As part of the circular economy, they are designed to be sent back and recycled when worn out, so that the materials can be kept in use for a long long time. </p>
+
+<p>With all that, we aim to bring about a positive impact, even if it's just to make you smile at our silly little shirts. Let's continue to be kind to our neighbours, look after our planet, and watch our Tubetiquette!</p>
+	
 </div><!--inner-->
 </section></div> <!--main-->

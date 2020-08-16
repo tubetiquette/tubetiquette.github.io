@@ -46,7 +46,21 @@
 			min-height: 0;
 		}
 	}
+	.tiles_posts {
+		&:after {
+			content: '';
+			display: block;
+			clear: both;
+		}
 
+		article {
+			@include padding(8em, 4em);
+			float: left;
+			height: auto;
+			max-height: none;
+			min-height: 0;
+		}
+	}
 /* Header */
 
 	#header {

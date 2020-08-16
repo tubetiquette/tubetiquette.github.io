@@ -16,14 +16,16 @@ nav-menu: true
 
 <section id="one">
 	<div class="inner">
-		<header class="major">
+		<header> <!--class="major"-->
 			<h1>Let me tell you about...</h1>
 		</header>
 
-<p><!--Our blog! Because T-shirts are a form of expression, we want to offer some narrative around our designs. Everyone likes a story or two, and hopefully you'll find something that resonates with you or, at the very least, amuses you. We write about the inspirations, the production, and anything that is loosely related to social niceties. It's not going to be just <a href="https://www.youtube.com/watch?v=A1FTqn0e_fc">cat videos</a>. Promise. -->
+<p>Our Inspirations! Because T-shirts are a form of expression, we want to offer some narrative around our designs. Everyone likes a story or two, and hopefully you'll find something that resonates with you or, at the very least, amuses you. <!--We write about the inspirations, the production, and anything that is loosely related to social niceties. It's not going to be just <a href="https://www.youtube.com/watch?v=A1FTqn0e_fc">cat videos</a>. Promise. -->
 </p>
 
-<div class="box alt">	<div class="row 50% uniform">
+{% include tiles_posts.html %}
+
+<!--<div class="box alt">	<div class="row 50% uniform">
   {% for post in site.posts reversed %}
   {% capture thecycle %}{% cycle 'one', 'two', 'three' %}{% endcapture %}
   {% if thecycle == "three" %}
@@ -35,11 +37,37 @@ nav-menu: true
     <span class="image fit grid">
         <img src="{{ post.image }}" alt="{{ post.image-alt }}"/></span>
                     <b>{{ post.title }}</b> ({{ post.date  | date: "%-d %B %Y" }})
-                    <br>{{ post.excerpt-blog }}</a>
+                    <br>{{ post.description-short }}</a>
     </div>
   {% if forloop.last and thecycle != "three" %}
   <div class="4u"> <span class="image fit grid"><img src="{{page.image}}" alt="Tubetiquette blog"></span></div>
   {% endif %}
   {% endfor %}
-</div></div>
-</div></section></div>
+</div><!--row
+</div><!--box alt-->
+
+</div><!--inner-->
+</section><!--one-->
+
+<!--
+<section id="two" class="spotlights">
+  {% for post in site.posts reversed %}
+	<section>
+	    <a href="{{ post.url }}" class="image">
+	        <img src="{{ post.image }}" alt="{{ post.image-alt }}" data-position="center center">
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>{{ post.title }}</h3>
+				</header>
+				<p>{{ post.date  | date: "%-d %B %Y" }}<br>
+				{{ post.description-short }}
+				</p>
+			</div>
+		</div>
+	</section>
+    {% endfor %}
+    -->
+</div> <!--main-->
+

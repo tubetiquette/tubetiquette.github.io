@@ -1,0 +1,16 @@
+{% assign tiles = site.posts %}
+<section id="one" class="tiles_posts">
+  {% for tile in tiles limit:site.tiles-count %}
+  <article>
+    <span class="image">
+      <img src="{{ tile.image }}" alt="{{ tile.image-alt }}" />
+    </span>
+    <header class="major">
+      <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h3>
+      <!--<p>{{ tile.date  | date: "%-d %B %Y" }}</p>-->
+      <p>{{ tile.description-short }}</p>
+    </header>
+  </article>
+  {% endfor %}
+</section>
+

@@ -32,6 +32,13 @@
 			background-size: cover;
 		}
 	}
+	.tiles_posts {
+		article {
+			width: 50%;
+			-ms-behavior: url('assets/js/ie/backgroundsize.min.htc');
+			background-size: cover;
+		}
+	}
 
 /* Banner */
 

@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Spread"
+date: 2020-08-15 20:45:34 +0100
+categories: design
+image: /assets/images/tshirt_model_train_spread.png
+description: A story about not spread in the Underground seats, a London tube etiquette that inspired our T-shirt design before social distancing was a thing. 
+image-alt: A red T-shirt with Tubetiquette's 'Spread' design, pictured with a red postbox
+excerpt-blog: Take a seat, and if you spread like a liquid, you might actually be a cat! 
+---
+
+<div class="box alt">
+    <div class="row 50% uniform">
+        <div class="4u">  
+            <span class="image fit grid2">
+                <img src="/assets/images/tshirt_design_train_spread.png" alt="The 'Spread' T-shirt design showing a cat sprawled across a seat invading the personal spaces of those around it"/>
+            </span>
+        </div>   
+        <div class="4u">  
+            <span class="image fit grid2">
+                <img src="{{ page.image }}" alt="{{ page.image-alt }}"/>
+            </span>
+        </div>
+        <div class="4u$">  
+            <span class="image fit grid2">
+                <img src="/assets/images/tshirt_product_train_spread.png" alt="A grey T-shirt made of organic cotton, with the 'Spread' design"/>
+            </span>
+        </div>
+    </div>
+</div>
+
+Our [design for this month](https://tubetiquette.teemill.com/product/spread-5f3301f9ba147/) is about Nathan's social bubble. Let's stop the spread, which really is London tubetiquette even before social distancing was a thing at all. 
+
+Young Nathan adores his nan. With the lockdown gradually easing in England, he gets to spend more time with her again. He doesn't yet know how to articulate it, but Grandma Rae has class. It isn't to do with what she wears, or how she applies her make-up, but the way she carries herself. She's commanding without being imposing. Nathan looks up to her and he tries to imitate her every move. That's why he props himself up and sits up straight, even after football when he wants nothing more than collapsing into his seat and sprawling across to make himself comfortable. He also makes sure to smile at everybody, even though it may be hard to tell behind a mask. He does so to those he knows well, but also complete strangers who always seem to ask him what his name is and how old he is. 
+
+Stay safe. Keep smiling. If you want to read other stories related to the Underground, [here]({% post_url 2020-07-22-holdon %})'s another one. Enjoy and let us know what you think @tubetiquette on either Instagram or Twitter! 

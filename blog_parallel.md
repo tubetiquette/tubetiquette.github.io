@@ -11,7 +11,6 @@ image: /assets/images/tubetiquette_logo_blog.png
 nav-menu: false
 show_tile: false
 ---
-<!-- Main -->
 <div id="main" class="alt">
 
 <section id="one">
@@ -22,20 +21,6 @@ show_tile: false
 
 <p>Well, welcome! We're surprised to find you here on our parallel blog because it isn't attached to the rest of our site. This is the space where we document our journey building Tubetiquette. It is semi-secret because the material here is very much a mind dump, but since you've found your way here, it might be of some interest to you which is pretty exciting! Please leave us a "you've been here" message as well as your comments {% include contacts.md %}</p>
 
-<!--<ul class="alt">-->
-<!--  {% for post in site.posts %}
-<div class="box"><p>
-      <span class="image left"><img src="{{ post.image }}" style='height: 100%; width: 100%; object-fit: contain'/></span>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.date  | date: "%-d %B %Y" }}
-      {{ post.excerpt }}
-</p></div>
-  {% endfor %}-->
-  
-<!--  {% for post in site.posts %}
-<a href="{{ post.url }}"><div class="4u"><span class="image fit"><img src="{{ post.image }}" alt="" /></span></div></a>
-  {% endfor %} --> 
-  
 <div class="box alt">	<div class="row 50% uniform">
   {% for post in site.posts_parallel reversed %}
   {% capture thecycle %}{% cycle 'one', 'two', 'three' %}{% endcapture %}

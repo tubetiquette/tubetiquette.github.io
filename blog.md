@@ -4,7 +4,7 @@
 
 layout: page
 landing-title: Story time!
-description-short: Inspired Designs
+description-short: Inspired designs
 title: Blog
 description: Let's catch up! Because T-shirts are a form of expression, we want to offer some narrative around our designs on our blog.
 permalink: /blog/
@@ -25,49 +25,7 @@ nav-menu: true
 
 {% include tiles_posts.html %}
 
-<!--<div class="box alt">	<div class="row 50% uniform">
-  {% for post in site.posts reversed %}
-  {% capture thecycle %}{% cycle 'one', 'two', 'three' %}{% endcapture %}
-  {% if thecycle == "three" %}
-    <div class="4u$">
-  {% else %}
-    <div class="4u">  
-  {% endif %}
-    <a href="{{ post.url }}">
-    <span class="image fit grid">
-        <img src="{{ post.image }}" alt="{{ post.image-alt }}"/></span>
-                    <b>{{ post.title }}</b> ({{ post.date  | date: "%-d %B %Y" }})
-                    <br>{{ post.description-short }}</a>
-    </div>
-  {% if forloop.last and thecycle != "three" %}
-  <div class="4u"> <span class="image fit grid"><img src="{{page.image}}" alt="Tubetiquette blog"></span></div>
-  {% endif %}
-  {% endfor %}
-</div><!--row
-</div><!--box alt-->
-
 </div><!--inner-->
 </section><!--one-->
-
-<!--
-<section id="two" class="spotlights">
-  {% for post in site.posts reversed %}
-	<section>
-	    <a href="{{ post.url }}" class="image">
-	        <img src="{{ post.image }}" alt="{{ post.image-alt }}" data-position="center center">
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>{{ post.title }}</h3>
-				</header>
-				<p>{{ post.date  | date: "%-d %B %Y" }}<br>
-				{{ post.description-short }}
-				</p>
-			</div>
-		</div>
-	</section>
-    {% endfor %}
-    -->
 </div> <!--main-->
 

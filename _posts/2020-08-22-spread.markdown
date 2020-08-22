@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spread
-date: 2020-08-15 20:45:34 +0100
+date: 2020-08-22 20:45:34 +0100
 categories: design
 image: /assets/images/tshirt_model_train_spread.png
 description: A story about not spread in the Underground seats, a London tube etiquette that inspired our T-shirt design before social distancing was a thing. 
@@ -28,16 +28,12 @@ description-short: Take a seat, and if you spread like a liquid, you might actua
         </div>
     </div>
 </div>-->
-
 <p>Our <a href="https://tubetiquette.teemill.com/product/spread-5f3301f9ba147/">design for this month</a> is about Nathan's social bubble. Let's stop the spread, which really is London tubetiquette even before social distancing was a thing at all. </p>
 <section class="spotlights">
     <section>
         <img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center">
 		<div class="content">
 			<div class="inner">
-<p>Young Nathan adores his nan. With the lockdown gradually easing in England, he gets to spend more time with her again. He doesn't yet know how to put it in words, but it's clear that Grandma Rae is very classy. It isn't to do with what she wears, or how she applies her make-up, but the way she carries herself. Nathan looks up to her and he tries to imitate her every move. That's why he props himself up and sits up straight, even after football when he wants nothing more than sprawling across to make himself comfortable. He also makes sure to smile at people, even though it's now hidden behind the mask. </p>
-            </div>
-        </div>
-    </section>
-</section>
-<br><p>Stay safe. Keep smiling. If you want to read other stories related to the Underground, <a href="{% post_url 2020-07-22-holdon %}">here</a>'s another one. Enjoy and let us know what you think @tubetiquette on either Instagram or Twitter! </p>
+<p>Young Nathan adores his nan. With the lockdown gradually easing in England, he gets to spend more time with her again. He doesn't yet know how to put it in words, but it's clear that Grandma Rae is very classy. It isn't to do with what she wears, or how she applies her make-up, but the way she carries herself. Nathan looks up to her and he tries to imitate her every move. That's why he props himself up and sits up straight, even after football when he wants nothing more than to sprawl across the seat to make himself comfortable. He also makes sure to smile at people, even though it's now hidden behind the mask. </p>
+    </div></div></section></section><br>
+<p>Stay safe. Keep smiling. If you want to read other stories related to the Underground, <a href="{% post_url 2020-07-22-holdon %}">here</a>'s another one. Enjoy and let us know what you think @tubetiquette on either Instagram or Twitter! </p>

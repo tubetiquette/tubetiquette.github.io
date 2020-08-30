@@ -25,12 +25,13 @@ description-short: Treat yourself to an ice cream when you deserve it, but try t
     </div>
 </div></div>-->
 
-<p>Here's one of our two designs for the launch celebrating Pam and Jake's epiphany during the lockdown. <a href="https://tubetiquette.teemill.com/product/scooooop-/">Scoop</a> it out - it's ice cream tubetiquette!</p>
+<p>Inspired by our current lockdown experience, <a href="https://tubetiquette.teemill.com/product/scooooop-/">this design</a> stresses the importance of hygiene and safety. Surely we all know the advice given by the health authorities, so let's focus instead on the ice cream tubetiquette!</p>
+
 <section class="spotlights">
     <section>
         <img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center">
 		<div class="content">
 			<div class="inner">
-<p>The unseasonably warm weather here in the UK is luring Jake and Pam to get out of the house when they aren't supposed to, but nothing is stopping them from indulging in the classic summer treat, in a civilised manner. Going a few weeks back, they wouldn't pick up the mail for days at a time and would only get out of bed 5 minutes before their first video call of the day. But eventually Pam realised it'd gone too far, and Jake confessed it wasn't how he wanted to live either. Together, they had to set things right for the household. Now the pair of them change out of their pyjamas every morning, and they eat their ice cream out of bowls. Still, they're doing nothing about their hair that's getting way longer than they'd like, but really what could you do? </p>
+<p>The British weather is known to be grey and rainy, but it's also notorious for being glorious just before or after and never during the holidays. Now that our trips to the seaside towns are cancelled, of course we're having the longest sunny spell that anyone can remember. Even though we can't get much of a tan, nothing is stopping us from indulging in the cold and creamy dessert, in a civilised manner! Ice cream becomes the breeding ground for bacteria when it melts, so food safety dictates that we should scoop it out with a clean utensil and put it back into the freezer before the cat has a chance to get to it. Most cats are lactose-intolerant anyway, so it's for their own good too!</p>
     </div></div></section></section><br>
-<p>If you've enjoyed this story, you might also like to read about our <a href="{% post_url 2020-07-22-holdon %}">other design</a>. Let us know @tubetiquette on Twitter or Instagram if you can work out the theme that runs through both. </p>
+<p>We're definitely minding our manners when it comes to tubs (and tubes), but otherwise, we're making the most of the solitude. The mail has been piling up by the front door, and we're in pyjamas all day! </p>

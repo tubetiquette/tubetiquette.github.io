@@ -28,13 +28,15 @@ description-short: We can't assume that people around us want to tube-surf, so l
         </div>
     </div>
 </div>-->
-<p>Inspired by the London tubetiquette observed by Camilla, our brand is launching with <a href="https://tubetiquette.teemill.com/product/hold-on/">this design</a> - the poles are made for holding.</p>
+<p>Safety first! <a href="https://tubetiquette.teemill.com/product/hold-on/">This design</a> highlights that the poles in the middle of the carriage are made for holding, so nobody will fall off the train. Please mind your London Tubetiquette. </p>
+
 <section class="spotlights">
     <section>
         <img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center">
 		<div class="content">
 			<div class="inner">
-<p>On a typical London commute, there are quite a few unspoken rules. The first rule is to never speak to anyone on the journey, but no words are necessary: it's basically a co-operative game in which passengers organise themselves around one another in the carriage and coordinate wrapping their palms atop each other up and down the poles, all without words or even eye contact. Very occasionally, there may be a cat wrapping its entire body around the pole, but cats are only small, so everybody else could still hold on and quietly cast their gaze onto their newspaper, their phone, or a tube poster.</p>
+<p>There are quite a few unspoken rules on a typical London commute: the first rule is to never speak to anyone on the journey, and the second rule is also to not speak to anybody. It's basically a giant co-operative game in which passengers organise themselves around one another, all without words or even eye contact. To make it more challenging, the trains don't always stop and start smoothly, and all those standing have to share access of the features designed for steadying ourselves. </p>
     </div></div></section></section><br>
-<p>Does the scene depicted resonate with you? Get in touch with your own stories @tubetiquette on Twitter and Instagram! There's also <a href="{% post_url 2020-07-22-scoop %}">this design</a> we've created for the launch, so do check it out too.</p>
+<p>Very occasionally, there may be a cat wrapping not its paw like the rest of us, but its entire body around the pole. Like with most things though, cats easily get away with this because they're only by our feet, so everybody else could still hold on and quietly cast their gaze onto their newspaper, their phone, or a Tube poster. Seriously, no words are necessary. </p>
+
 

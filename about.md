@@ -27,7 +27,7 @@ nav-menu: true
 
 <p>We're Tubetiquette, and we're here to promote what we call respectful living through absurd, and sometimes humourous, t-shirt designs.</p>
 
-<p>Being a master of reverse psychology, our resident designer presents various breaches of social courtesy in the form of the most impenetrable creature on earth. Whether aloof or misunderstood, cats just appear to be oblivious to the people around them as though they live in a parallel universe. There isn't any finger-pointing here -- mainly because we don't want to be hissed at -- but we do hope to encourage all tubeti-cats to show more consideration to other beings.</p>
+<p>Being a pro at reverse psychology, our resident designer presents various breaches of social courtesy in the form of the most impenetrable creature on earth. Whether aloof or misunderstood, cats just appear to be oblivious to the people around them as though they live in a parallel universe. There isn't any finger-pointing here -- mainly because we don't want to be hissed at -- but we do hope to encourage all tubeti-cats to show more consideration to other beings.</p>
 
 </div></div></section>
 
@@ -36,7 +36,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 
-<p>The inspirations are mostly drawn from what we see and experience. Given that we're based in London, there may be an obsessive amount of references to the weather, the Tube, and scarcasm in general, for which we can only apologise. We should also indicate that the events or characters we depict are fictitious, and any similarity would be purely and entirely coincidental. </p>
+<p>The inspirations are mostly drawn from what we see and experience. Given that we're based in London, there may be an obsessive amount of references to the weather, the Tube, and scarcasm in general, for which we can only apologise. We should also say that the events or characters we depict are fictitious, and any similarity would be purely and entirely coincidental. </p>
 
 
 <p>No felines are harmed in the making of these t-shirts, and we try our best to limit our impact on the environment. All of our products are made from organic cotton in renewable energy powered factories, and are shipped in plastic-free packaging. As part of the circular economy, they are designed to be sent back and recycled when worn out, so that the materials can be kept in use for a long long time. </p>

@@ -28,12 +28,13 @@ description-short: Take a seat, and if you spread like a liquid, you might actua
         </div>
     </div>
 </div>-->
-<p>Our <a href="https://tubetiquette.teemill.com/product/spread-5f3301f9ba147/">design for this month</a> is about Nathan's social bubble. Let's stop the spread, which really is London tubetiquette even before social distancing was a thing at all. </p>
+<p>Another rule of London Tubetiquette! Our <a href="https://tubetiquette.teemill.com/product/spread-5f3301f9ba147/">design for this month</a> is for passengers lucky enough to have a seat. Some say this is no longer relevant, but we argue that it's conceptually similar to social distancing. Might be a bit of a stretch. Let's see...</p>
+
 <section class="spotlights">
     <section>
         <img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center">
 		<div class="content">
 			<div class="inner">
-<p>Young Nathan adores his nan. With the lockdown gradually easing in England, he gets to spend more time with her again. He doesn't yet know how to put it in words, but it's clear that Grandma Rae is very classy. It isn't to do with what she wears, or how she applies her make-up, but the way she carries herself. Nathan looks up to her and he tries to imitate her every move. That's why he props himself up and sits up straight, even after football when he wants nothing more than to sprawl across the seat to make himself comfortable. He also makes sure to smile at people, even though it's now hidden behind the mask. </p>
+<p>Have you ever paid much attention to the fabric on the Tube seats? Not only is the moquette tough and durable, but it also keeps cool in the summer and warm in the winter. Now, have you realised that the seats are all divided up, really even those on the Bakerloo Line? Yes, that's so when you claim a seat, you know which space you get. Not half the space, not one and a half of the space, but one space, just like a typical board game, except that there isn't supposed to be winners and losers. </p>
     </div></div></section></section><br>
-<p>Stay safe. Keep smiling. If you want to read other stories related to the Underground, <a href="{% post_url 2020-07-22-holdon %}">here</a>'s another one. Enjoy and let us know what you think @tubetiquette on either Instagram or Twitter! </p>
+<p>We know that cats stretch themselves out when they feel relaxed, but that's at the expense of us feeling threatened because we just can't read cats well and they might pounce on a prey any second. Let's just respect each other's personal space and keep our distance. We are not playing a strategic war game -- we're just trying to get to places. <!--If you want to read another story related to the Underground, <a href="{% post_url 2020-07-22-holdon %}">here</a>'s one. --></p>

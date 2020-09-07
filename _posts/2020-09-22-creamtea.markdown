@@ -1,0 +1,28 @@
+---
+layout: post
+title: Cream tea
+date: 2020-09-02 20:45:34 +0100
+categories: design
+image: /assets/images/tshirt_model_cream_tea.png
+description: 
+image-alt: 
+description-short: Whether it's cream first or jam first, we never ever double-dip like this cat that got the cream. 
+---
+
+<p>As the cold sets in, we're all looking for something warm and hearty in our bellies, and <a href="https://tubetiquette.teemill.com/product/cream-tea/">this design</a> serves to remind us of our clotted cream tubetiquette. Use the teaspoons, and keep them separate! </p>
+
+<section class="spotlights">
+    <section>
+        <img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center">
+		<div class="content">
+			<div class="inner">
+<p>Cream tea is an afternoon treat of scones, clotted cream, and strawberry jam, served with a pot of hot tea. It has been offered in the southwestern counties of Devon and Cornwall ever since the Great Western Railway brought holiday makers from London Paddington to the region in mid-1800. </p>
+
+<p>As with tea and milk, of course there are debates over whether the cream or the jam should go on the scones first. The Devonshire way is to have the cream first, while the Cornish style is the other way round. Either way, the cream and the jam are always always served with teaspoons, separate teaspoons, so we can avoid cat paws and double-dipping! </p>
+    </div></div></section></section><br>
+
+<p>
+As for the pronunciation of scone, it largely comes down to which joke you personally prefer: <br>
+<i>What's the fastest cake in the world?</i> ... Scone...<br>
+<i>Why did the baker poison the parakeets?</i> He wanted to kill two birds with one scone. 
+</p>

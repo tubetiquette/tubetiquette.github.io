@@ -36,7 +36,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 
-<p>The inspirations are mostly drawn from what we see and experience. Given that we're based in London, there may be an obsessive amount of references to the weather, the Tube, and scarcasm in general, for which we can only apologise. We should also say that the events or characters we depict are fictitious, and any similarity would be purely and entirely coincidental. </p>
+<p>The inspirations are mostly drawn from what we see and experience. Given that we're based in London, there may be an obsessive amount of references to the weather, the Tube, and sarcasm in general, for which we can only apologise. We should also say that the events or characters we depict are fictitious, and any similarity would be purely and entirely coincidental. </p>
 
 
 <p>No felines are harmed in the making of these t-shirts, and we try our best to limit our impact on the environment. All of our products are made from organic cotton in renewable energy powered factories, and are shipped in plastic-free packaging. As part of the circular economy, they are designed to be sent back and recycled when worn out, so that the materials can be kept in use for a long long time. </p>

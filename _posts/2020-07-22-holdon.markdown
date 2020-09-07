@@ -28,14 +28,14 @@ description-short: We can't assume that people around us want to tube-surf, so l
         </div>
     </div>
 </div>-->
-<p>Safety first! <a href="https://tubetiquette.teemill.com/product/hold-on/">This design</a> highlights that the poles in the middle of the carriage are made for holding, so nobody will fall off the train. Please mind your London Tubetiquette. </p>
+<p>Safety first! <a href="https://tubetiquette.teemill.com/product/hold-on/">This design</a> highlights that the poles in the middle of the carriage are made for holding, so nobody will fall off the train. Please mind the gap, and please mind your London Tubetiquette. </p>
 
 <section class="spotlights">
     <section>
         <img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center">
 		<div class="content">
 			<div class="inner">
-<p>There are quite a few unspoken rules on a typical London commute: the first rule is to never speak to anyone on the journey, and the second rule is also to not speak to anybody. It's basically a giant co-operative game in which passengers organise themselves around one another, all without words or even eye contact. To make it more challenging, the trains don't always stop and start smoothly, and all those standing have to share access of the features designed for steadying ourselves. </p>
+<p>There are quite a few unspoken rules on a typical London commute: the first rule is to never speak to anyone on the journey, and the second rule is also to not speak to anybody. It's basically a giant co-operative game in which passengers organise themselves around one another, all without words or even eye contact. To make it more challenging, the trains don't always stop and start smoothly, and all those standing have to share access to the features designed for steadying ourselves. </p>
     </div></div></section></section><br>
 <p>Very occasionally, there may be a cat wrapping not its paw like the rest of us, but its entire body around the pole. Like with most things though, cats easily get away with this because they're only by our feet, so everybody else could still hold on and quietly cast their gaze onto their newspaper, their phone, or a Tube poster. Seriously, no words are necessary. </p>
 

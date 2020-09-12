@@ -4,8 +4,8 @@ title: Spread
 date: 2020-08-22 20:45:34 +0100
 categories: design
 image: /assets/images/tshirt_model_train_spread.png
-description: A story about not spread in the Underground seats, a London tube etiquette that inspired our T-shirt design before social distancing was a thing. 
-image-alt: A red T-shirt with Tubetiquette's 'Spread' design, pictured with a red postbox
+description: Tubetiquette's t-shirt design illustrating the London Tube etiquette of not spreading out in the seats, which has been common courtesy before social distancing.
+image-alt: A t-shirt with Tubetiquette's 'Spread' design, in the same red colour as the UK telephone box. The t-shirt features a white cat spreading across a few seats on the London Tube. 
 description-short: Take a seat, and if you spread like a liquid, you might actually be a cat! 
 ---
 
@@ -28,13 +28,13 @@ description-short: Take a seat, and if you spread like a liquid, you might actua
         </div>
     </div>
 </div>-->
-<p>Another rule of London Tubetiquette! Our <a href="https://tubetiquette.teemill.com/product/spread-5f3301f9ba147/">design for this month</a> is for passengers lucky enough to have a seat. Some say this is no longer relevant, but we argue that it's conceptually similar to social distancing. Might be a bit of a stretch. Let's see...</p>
+<p>Another rule of London Tube etiquette! Our <a href="https://tubetiquette.teemill.com/product/spread-5f3301f9ba147/">design for this month</a> is for passengers lucky enough to have a seat. Some say this is no longer relevant, but we argue that it's conceptually similar to social distancing. Might be a bit of a stretch. We shall see...</p>
 
 <section class="spotlights">
     <section>
         <img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center">
 		<div class="content">
 			<div class="inner">
-<p>Have you ever paid much attention to the fabric on the Tube seats? Not only is the moquette tough and durable, but it also keeps cool in the summer and warm in the winter. Now, have you realised that the seats are all divided up, really even those on the Bakerloo Line? Yes, that's so when you claim a seat, you know which space you get. Not half the space, not one and a half of the space, but one space, just like a typical board game, except that there isn't supposed to be winners and losers. </p>
+<p>Have you ever paid much attention to the fabric on the Tube seats? Not only is the moquette tough and durable, but it also keeps cool in the summer and warm in the winter. Now, have you realised that the seats are all divided up, really even those on the Bakerloo Line? Yes, that's so when you claim a seat, you know which space you get. Not half the space, not one and a half of the space, but one space, just like a typical board game, except that there should be no winners and losers here. </p>
     </div></div></section></section><br>
-<p>We know that cats stretch themselves out when they feel relaxed, but that's at the expense of us feeling threatened because we just can't read cats well and they might pounce on a prey any second. Let's just respect each other's personal space and keep our distance. We are not playing a strategic war game -- we're just trying to get to places. <!--If you want to read another story related to the Underground, <a href="{% post_url 2020-07-22-holdon %}">here</a>'s one. --></p>
+<p>We know that cats stretch out to relax, but we should respect each other's personal space and keep our distance. Public transport is not the place for strategic war games -- we're just trying to get home to our couch where we can really spread out and get comfortable. <!--If you want to read another story related to the Underground, <a href="{% post_url 2020-07-22-holdon %}">here</a>'s one. --></p>

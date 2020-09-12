@@ -4,8 +4,8 @@ title: Scoop!
 date: 2020-07-22 20:45:34 +0100
 categories: design
 image: /assets/images/tshirt_model_ice_cream_scoop.png
-description: A story about the ice cream tub etiquette that has inspired our T-shirt design. Tried but didn't manage to work in any cats. 
-image-alt: A T-shirt in denim blue with our 'Scoop' design
+description: Tubetiquette's 'Scoop' t-shirt design illustrating the etiquette around ice cream tubs and safety tips for cats!
+image-alt: A t-shirt in denim blue with our 'Scoop' design, featuring a tabby kitten licking a tub of ice cream - how unhygienic! 
 description-short: Treat yourself to an ice cream when you deserve it, but try to resist eating out of the tub... even if you're a cat. 
 
 ---
@@ -25,13 +25,13 @@ description-short: Treat yourself to an ice cream when you deserve it, but try t
     </div>
 </div></div>-->
 
-<p>Inspired by our current lockdown experience, <a href="https://tubetiquette.teemill.com/product/scooooop-/">this design</a> stresses the importance of hygiene and safety. Surely we all know the advice given by the health authorities, so let's focus instead on the ice cream tubetiquette!</p>
+<p>Inspired by our current lockdown experience, <a href="https://tubetiquette.teemill.com/product/scooooop-/">this design</a> stresses the importance of hygiene and safety. Surely we all know the advice given by the health authorities, so let's focus instead on the ice cream tub etiquette!</p>
 
 <section class="spotlights">
     <section>
         <img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center">
 		<div class="content">
 			<div class="inner">
-<p>The British weather is known to be grey and rainy, but it's also notorious for being glorious just before or after and never during the holidays. Now that our trips to the seaside towns are cancelled, of course we're having the longest sunny spell that anyone can remember. Even though we can't get much of a tan, nothing is stopping us from indulging in the cold and creamy dessert, in a civilised manner! Ice cream becomes the breeding ground for bacteria when it melts, so food safety dictates that we should scoop it out with a clean utensil and put it back into the freezer before the cat has a chance to get to it. Most cats are lactose-intolerant anyway, so it's for their own good too!</p>
+<p>The British weather is known to be grey and rainy, but it's also notorious for being glorious just before or after -- and never during -- the holidays. Now that our trips to the seaside towns are cancelled, of course we're having the longest sunny spell that anyone can remember. Even though we can't get much of a tan, nothing is stopping us from indulging in the cold and creamy dessert, in a civilised manner! Ice cream becomes a breeding ground for bacteria when it melts, so food safety dictates that we should scoop it out with a clean utensil and put it back into the freezer before the cat has a chance to get to it. Most grown-up cats are lactose-intolerant anyway, so it's for their own good too!</p>
     </div></div></section></section><br>
 <p>We're definitely minding our manners when it comes to tubs (and tubes), but otherwise, we're making the most of the solitude. The mail has been piling up by the front door, and we're in pyjamas all day! </p>

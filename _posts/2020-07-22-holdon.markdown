@@ -4,9 +4,9 @@ title: Hold on
 date: 2020-07-22 20:45:34 +0100
 categories: design
 image: /assets/images/tshirt_model_train_pole.png
-description: A story about not leaning on the poles in the Underground train, a London tube etiquette that inspired our T-shirt design before the lockdown. 
-image-alt: A tailored T-shirt dress in mustard yellow with our 'Hold On' design
-description-short: We can't assume that people around us want to tube-surf, so let's not lean against the poles... unless you're a cat. 
+description: Tubetiquette's 'Hold On' t-shirt design explaining the purpose of the poles in the Underground trains and the London Tube etiquette of not leaning against them.
+image-alt: A tailored t-shirt dress in mustard yellow with Tubetiquette's 'Hold On' design outside a London Tube station. The design features a cat wrapping itself around a pole on the train. 
+description-short: We can't assume that people around us want to Tube-surf, so let's not lean against the poles... unless you're a cat. 
 ---
 
 <!--<div class="box alt">
@@ -28,15 +28,15 @@ description-short: We can't assume that people around us want to tube-surf, so l
         </div>
     </div>
 </div>-->
-<p>Safety first! <a href="https://tubetiquette.teemill.com/product/hold-on/">This design</a> highlights that the poles in the middle of the carriage are made for holding, so nobody will fall off the train. Please mind the gap, and please mind your London Tubetiquette. </p>
+<p>Safety first! <a href="https://tubetiquette.teemill.com/product/hold-on/">This design</a> highlights that the poles in the middle of the carriage are made for holding, so nobody will fall when the train lurches. Please mind the gap, and please mind your London Tube etiquette. </p>
 
 <section class="spotlights">
     <section>
         <img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center">
 		<div class="content">
 			<div class="inner">
-<p>There are quite a few unspoken rules on a typical London commute: the first rule is to never speak to anyone on the journey, and the second rule is also to not speak to anybody. It's basically a giant co-operative game in which passengers organise themselves around one another, all without words or even eye contact. To make it more challenging, the trains don't always stop and start smoothly, and all those standing have to share access to the features designed for steadying ourselves. </p>
+<p>There are quite a few unspoken rules on a typical London commute, and the first and foremost is to never speak to anyone on the journey. It's basically a giant cooperative game in which passengers organise themselves around one another, all without words, often without eye contact. To make it more challenging, the trains don't always stop and start smoothly, and all those standing have to share access to the features designed for steadying themselves. </p>
     </div></div></section></section><br>
-<p>Very occasionally, there may be a cat wrapping not its paw like the rest of us, but its entire body around the pole. Like with most things though, cats easily get away with this because they're only by our feet, so everybody else could still hold on and quietly cast their gaze onto their newspaper, their phone, or a Tube poster. Seriously, no words are necessary. </p>
+<p>Occasionally there may be a cat by the pole, not holding on delicately with a dainty paw, but instead, wrapping its entire body around like a crawling vine. Avoid brushing up against it if you can, and do not talk, do not make eye contact, but simply cast your gaze onto your newspaper, your phone, or a Tube poster. If you’re wearing your Tubetiquette shirt, perhaps it will catch its eye! Shhh, no words are necessary.</p>
 
 

@@ -6,7 +6,7 @@ layout: page
 landing-title: Story time!
 description-short: Designs
 title: Blog
-description: Let's catch up! Because T-shirts are a form of expression, we want to offer some narrative around our designs on our blog.
+description: Let's catch up! Because t-shirts are a form of expression, we want to offer some narrative around our designs on our blog.
 permalink: /blog/
 image: /assets/images/tubetiquette_logo_blog.png
 nav-menu: true
@@ -20,7 +20,7 @@ nav-menu: true
 			<h1>Let me tell you about...</h1>
 		</header>
 
-<p>Our Inspirations! Because T-shirts are a form of expression, we want to offer some narrative around our designs. Everyone likes a story or two, and hopefully you'll find something that resonates with you or, at the very least, amuses you. <!--We write about the inspirations, the production, and anything that is loosely related to social niceties. It's not going to be just <a href="https://www.youtube.com/watch?v=A1FTqn0e_fc">cat videos</a>. Promise. --> 
+<p>Our Inspirations! Because t-shirts are a form of expression, we want to offer some narrative around our designs. Everyone likes a story or two, and hopefully you'll find something that resonates with you or, at the very least, amuses you. <!--We write about the inspirations, the production, and anything that is loosely related to social niceties. It's not going to be just <a href="https://www.youtube.com/watch?v=A1FTqn0e_fc">cat videos</a>. Promise. --> 
 </p>
 
 {% include tiles_posts.html %}

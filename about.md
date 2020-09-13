@@ -38,7 +38,7 @@ nav-menu: true
 
 <p>The illustrations are inspired by what we see and experience. As we're based in London, we can't help but make an inordinate amount of references to the weather, the Tube, and satire aimed at the absurdity of everyday life. Still, the events and characters depicted are purely fictitious, and any similarity to actual persons is entirely coincidental. </p> 
 
-<p>No felines are harmed in the making of these t-shirts, and we try our best to limit our impact on the environment: all of our products are made from organic cotton in factories powered by renewable energy, and all purchases are shipped in plastic-free packaging. As part of the circular economy, the t-shirts are designed to be sent back and recycled when worn out, so that the materials can be kept in use for a long time, perhaps even longer than the reign of the Queen. </p>
+<p>No felines are harmed in the making of these t-shirts, and we try our best to limit our impact on the environment: all of our products are made from organic cotton in factories powered by renewable energy, and all purchases are shipped in plastic-free packaging. As part of the circular economy, the t-shirts are designed to be sent back and recycled when worn out, so that the materials can be kept in use for a long time, perhaps even longer than the reign of Queen Victoria. </p>
 
 </div></div></section>
 <section>

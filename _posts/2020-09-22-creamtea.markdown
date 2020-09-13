@@ -7,13 +7,14 @@ image: /assets/images/tshirt_model_cream_tea.png
 description: Tubetiquette's 'Cream Tea' t-shirt design featuring a Siamese cat forgetting its manners and dipping its paw in a tub of clotted cream. How very improper!
 image-alt: A white t-shirt with Tubetiquette's 'Cream Tea' design next to Paddington Bear with his marmite sandwich. 
 description-short: Whether it's cream first or jam first, never double-dip like this cat that got the cream. 
+store-url: https://tubetiquette.teemill.com/product/cream-tea/
 ---
 
-<p>As the cold sets in, we're all looking for something warm and hearty in our bellies, and <a href="https://tubetiquette.teemill.com/product/cream-tea/">this design</a> serves to remind us of our clotted cream tub etiquette: use the teaspoons, and keep them separate! </p>
+<p>As the cold sets in, we're all looking for something warm and hearty in our bellies, and this design serves to remind us of our clotted cream tub etiquette: use the teaspoons, and keep them separate! </p>
 
 <section class="spotlights">
     <section>
-        <img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center">
+        <a href="{{ page.store-url }}"><img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center" style="padding:7px 7px 0px 7px;"></a>
 		<div class="content">
 			<div class="inner">
 <p>Cream tea is an afternoon treat of scones, clotted cream, and strawberry jam, served with a pot of hot tea. It has been offered in the southwestern counties of Devon and Cornwall ever since the Great Western Railway brought holidaymakers from London Paddington to the region in the mid-1800s. </p>
@@ -24,4 +25,4 @@ description-short: Whether it's cream first or jam first, never double-dip like 
 <p>As for the pronunciation of scone, it largely comes down to which joke you personally find funnier: <br>
 &#x21DD; What's the fastest cake in the world? ... Scone...<br>
 &#x21DD; Why did the baker poison the parakeets? He wanted to kill two birds with one scone.
-</p><br>
+</p>

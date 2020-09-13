@@ -7,6 +7,7 @@ image: /assets/images/tshirt_model_train_pole.png
 description: Tubetiquette's 'Hold On' t-shirt design explaining the purpose of the poles in the Underground trains and the London Tube etiquette of not leaning against them.
 image-alt: A tailored t-shirt dress in mustard yellow with Tubetiquette's 'Hold On' design outside a London Tube station. The design features a cat wrapping itself around a pole on the train. 
 description-short: We can't assume that people around us want to Tube-surf, so let's not lean against the poles... unless you're a cat. 
+store-url: https://tubetiquette.teemill.com/product/hold-on/
 ---
 
 <!--<div class="box alt">
@@ -28,15 +29,14 @@ description-short: We can't assume that people around us want to Tube-surf, so l
         </div>
     </div>
 </div>-->
-<p>Safety first! <a href="https://tubetiquette.teemill.com/product/hold-on/">This design</a> highlights that the poles in the middle of the carriage are made for holding, so nobody will fall when the train lurches. Please mind the gap, and please mind your London Tube etiquette. </p>
+<p>Safety first! This design highlights that the poles in the middle of the carriage are made for holding, so nobody will fall when the train lurches. Please mind the gap, and please mind your London Tube etiquette. </p>
 
 <section class="spotlights">
     <section>
-        <img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center">
+        <a href="{{ page.store-url }}"><img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center" style="padding:7px 7px 0px 7px;"></a>
 		<div class="content">
 			<div class="inner">
 <p>There are quite a few unspoken rules on a London commute, and the first and foremost is to never speak to anybody. The journey is basically a giant cooperative game in which passengers organise themselves around one another, all without words, often without eye contact. To make it more challenging, the trains don't always stop and start smoothly, and all those standing have to share access to the features designed for steadying themselves. </p>
     </div></div></section></section><br>
-<p>Occasionally there may be a cat by the pole, not holding on delicately with a dainty paw, but instead, wrapping its entire body around like a crawling vine. Avoid brushing up against it if you can, and do not talk, do not make eye contact, but simply cast your gaze onto your newspaper, your phone, or a Tube poster. If you’re wearing your Tubetiquette shirt, perhaps it will catch its eye! Shhh, no words are necessary.</p><br>
-
-
+<p>Occasionally there may be a cat by the pole, not holding on delicately with a dainty paw, but instead, wrapping its entire body around like a crawling vine. Avoid brushing up against it if you can, and do not talk, do not make eye contact, but simply cast your gaze onto your newspaper, your phone, or a Tube poster. If you’re wearing your Tubetiquette shirt, perhaps it will catch its eye! Shhh, no words are necessary.
+</p>

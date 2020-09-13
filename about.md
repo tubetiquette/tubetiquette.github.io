@@ -41,11 +41,13 @@ nav-menu: true
 <p>No felines are harmed in the making of these t-shirts, and we try our best to limit our impact on the environment: all of our products are made from organic cotton in factories powered by renewable energy, and all purchases are shipped in plastic-free packaging. As part of the circular economy, the t-shirts are designed to be sent back and recycled when worn out, so that the materials can be kept in use for a long time, perhaps even longer than the reign of the Queen. </p>
 
 </div></div></section>
+<section>
+        <figure><img src="/assets/images/tshirt_model_scoop_hold_spread.png" alt="T-shirts illustrating Tubetiquette" class="right"><figcaption>Some of our <a href="{% link blog.md %}">designs</a> out on a parade</figcaption></figure>
+<div class="content">
 <div class="inner">
 <p>Our clothing brand was born in the summer of 2020, a time of self-isolation and mass demonstrations. We spent weeks reflecting on what made us human and how our society could function better. The answer we settled on was something we all learned as children years ago: each and every one of us carries a tremendous amount of value and should be treated with respect. That's everybody, including you and me, our nextdoor neighbours, and indeed, the nameless strangers on the Tube we may never meet again. </p> 
 
 <p>Let's continue to be kind to our neighbours, look after our planet, and mind our Tubetiquette!</p>
 </div>
-        <figure><img src="/assets/images/tshirt_model_scoop_hold_spread.png" alt="T-shirts illustrating Tubetiquette" class="right"><figcaption></figcaption></figure>
-
-<!--</div> main-->
+<!--<figure><img src="/assets/images/tshirt_model_scoop_hold_spread.png" alt="T-shirts illustrating Tubetiquette" class="right"><figcaption>Taking some of our designs out on a parade</figcaption></figure>-->
+</div></section>

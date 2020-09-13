@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Drop in
-date: 2020-09-02 20:45:34 +0100
+date: 2020-08-02 20:45:34 +0100
 categories: design
 image: /assets/images/tshirt_model_surf_dropin.png
 description: Tubetiquette's 'Drop In' t-shirt design on the tube etiquette for surfing. Learn the right of way when catching green waves. Don’t be like the Maine Coon cat! 
@@ -16,9 +16,9 @@ description-short: Recognise the right of way. It's never cool to drop in on som
         <img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center">
 		<div class="content">
 			<div class="inner">
-<p>Great Britain may not come to mind as a surfing destination like Hawaii and Bali, but storms in the Atlantic do actually send plenty of swell our way. With the right beach and reef set-up -- like at some of the spots in Cornwall -- these waves can roll over leaving a gap in the middle, and experienced surfers can ride inside this hollow tube as it collapses. </p>
+<p>Great Britain may not come to mind as a surfing destination, but storms in the Atlantic do actually send plenty of swell our way. With the right beach and reef set-up -- like at some of the spots in Cornwall -- these waves can roll over leaving a gap in the middle, and experienced surfers can ride inside this hollow tube as it collapses. </p>
 
-<p>To catch a wave, first you paddle to match its speed. Before popping up and taking off though, do check if somebody else has already claimed it. The person closest to the peak of the breaking wave has the right of way, and cutting in doesn't only block him/her but can also cause a collision. </p>
+<p>To catch a wave, first you paddle to match its speed. Before popping up and taking off though, do check if somebody else has already claimed it. The person closest to the peak of the breaking wave has the right of way, and cutting in doesn't only block the surfer but can also cause a collision! </p>
     </div></div></section></section><br>
-<p>Of course, honest mistakes can be made, so if you've accidentally dropped in like this Maine Coon, try then to get out of the way by surfing over the back of the wave without interrupting the other person's ride. Stay safe, and hang loose!</p>
+<p>Of course, honest mistakes can be made, so if you've accidentally dropped in like this Maine Coon, try then to get out of the way by surfing over the back of the wave without interrupting the other person's ride. Stay safe, and hang loose!</p><br>
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scoop!
+title: Scoop
 date: 2020-07-22 20:45:34 +0100
 categories: design
 image: /assets/images/tshirt_model_ice_cream_scoop.png
@@ -34,4 +34,4 @@ description-short: Treat yourself to an ice cream when you deserve it, but try t
 			<div class="inner">
 <p>The British weather is known to be grey and rainy, but it's also notorious for being glorious just before or after -- and never during -- the holidays. Now that our trips to the seaside towns are cancelled, of course we're having the longest sunny spell that anyone can remember. Even though we can't get much of a tan, nothing is stopping us from indulging in the cold and creamy dessert, in a civilised manner! Ice cream becomes a breeding ground for bacteria when it melts, so food safety dictates that we should scoop it out with a clean utensil and put it back into the freezer before the cat has a chance to get to it. Most grown-up cats are lactose-intolerant anyway, so it's for their own good too!</p>
     </div></div></section></section><br>
-<p>We're definitely minding our manners when it comes to tubs (and tubes), but otherwise, we're making the most of the solitude. The mail has been piling up by the front door, and we're in pyjamas all day! </p>
+<p>We're definitely minding our manners when it comes to tubs (and tubes), but otherwise, we're making the most of the solitude. The mail has been piling up by the front door, and we're in pyjamas all day! </p><br>

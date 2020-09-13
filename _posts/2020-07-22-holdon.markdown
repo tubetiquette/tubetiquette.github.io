@@ -35,8 +35,8 @@ description-short: We can't assume that people around us want to Tube-surf, so l
         <img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center">
 		<div class="content">
 			<div class="inner">
-<p>There are quite a few unspoken rules on a typical London commute, and the first and foremost is to never speak to anyone on the journey. It's basically a giant cooperative game in which passengers organise themselves around one another, all without words, often without eye contact. To make it more challenging, the trains don't always stop and start smoothly, and all those standing have to share access to the features designed for steadying themselves. </p>
+<p>There are quite a few unspoken rules on a London commute, and the first and foremost is to never speak to anybody. The journey is basically a giant cooperative game in which passengers organise themselves around one another, all without words, often without eye contact. To make it more challenging, the trains don't always stop and start smoothly, and all those standing have to share access to the features designed for steadying themselves. </p>
     </div></div></section></section><br>
-<p>Occasionally there may be a cat by the pole, not holding on delicately with a dainty paw, but instead, wrapping its entire body around like a crawling vine. Avoid brushing up against it if you can, and do not talk, do not make eye contact, but simply cast your gaze onto your newspaper, your phone, or a Tube poster. If you’re wearing your Tubetiquette shirt, perhaps it will catch its eye! Shhh, no words are necessary.</p>
+<p>Occasionally there may be a cat by the pole, not holding on delicately with a dainty paw, but instead, wrapping its entire body around like a crawling vine. Avoid brushing up against it if you can, and do not talk, do not make eye contact, but simply cast your gaze onto your newspaper, your phone, or a Tube poster. If you’re wearing your Tubetiquette shirt, perhaps it will catch its eye! Shhh, no words are necessary.</p><br>
 
 

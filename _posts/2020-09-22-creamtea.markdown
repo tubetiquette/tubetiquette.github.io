@@ -16,12 +16,12 @@ description-short: Whether it's cream first or jam first, never double-dip like 
         <img src="{{ page.image }}" alt="{{ page.image-alt }}" data-position="center center">
 		<div class="content">
 			<div class="inner">
-<p>Cream tea is an afternoon treat of scones, clotted cream, and strawberry jam, served with a pot of hot tea. It has been offered in the southwestern counties of Devon and Cornwall ever since the Great Western Railway brought holiday makers from London Paddington to the region in the mid-1800s. </p>
+<p>Cream tea is an afternoon treat of scones, clotted cream, and strawberry jam, served with a pot of hot tea. It has been offered in the southwestern counties of Devon and Cornwall ever since the Great Western Railway brought holidaymakers from London Paddington to the region in the mid-1800s. </p>
 
-<p>As with tea and milk, of course there are debates over whether the cream or the jam should go on the scones first. The Devonshire way is to have the cream first, while the Cornish style is the other way round. Either way, the cream and the jam are always always served with teaspoons, separate teaspoons, so we can avoid cat paws and double-dipping! </p>
+<p>As with tea and milk, of course there are debates over whether the cream or the jam should go on the scones first. The Devonshire way is to have the cream first, while the Cornish style is the other way round. Either way, the cream and the jam are always always served with teaspoons, separate teaspoons, so to avoid cat paws and double-dipping! </p>
     </div></div></section></section><br>
 
 <p>As for the pronunciation of scone, it largely comes down to which joke you personally find funnier: <br>
-What's the fastest cake in the world? ... Scone...<br>
-Why did the baker poison the parakeets? He wanted to kill two birds with one scone.
-</p>
+&#x21DD; What's the fastest cake in the world? ... Scone...<br>
+&#x21DD; Why did the baker poison the parakeets? He wanted to kill two birds with one scone.
+</p><br>
